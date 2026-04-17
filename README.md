@@ -1,6 +1,6 @@
 # ŌVUM — Field Manual 01
 
-![ŌVUM Field Manual 01](./Gemini_Generated_Image_tbz16ftbz16ftbz1.jpg)
+Gemini_Generated_Image_tbz16ftbz16ftbz1.png
 
 ### Tesla P4 Compute Recovery Protocol
 **Verified protocols for constrained systems.**
